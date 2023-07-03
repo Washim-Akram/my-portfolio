@@ -12,14 +12,6 @@ const Hero = () => {
       .then((data) => setSkillImages(data));
   }, []);
 
-  // https://assets8.lottiefiles.com/packages/lf20_qoqtgkus.json
-  // https://assets2.lottiefiles.com/packages/lf20_kAhPVOiVD5.json
-  // https://assets8.lottiefiles.com/private_files/lf30_igfaivqx.json
-  // https://assets6.lottiefiles.com/packages/lf20_w51pcehl.json
-  // https://assets6.lottiefiles.com/packages/lf20_nOfkZot060.json
-  // https://assets8.lottiefiles.com/packages/lf20_1dbuqkPsnJ.json
-  // https://assets8.lottiefiles.com/packages/lf20_lNicTz/FrontEndChile/data.json
-
   return (
     <section className="mt-20 md:mt-0 hero min-h-screen bg-base-200" id="home">
       <div className="">
