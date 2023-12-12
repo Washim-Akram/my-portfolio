@@ -1,50 +1,57 @@
 [
   {
     "image_id": 1,
-    "image_url": "https://akus.b-cdn.net/en/images/articles/html5-new-tags-effects-behaviors.jpg"
+    "image_url": "https://www.arsys.es/blog/file/uploads/2015/03/HTML5_Logo_512.png",
+    "skill_name": "HTML"
   },
   {
     "image_id": 2,
-    "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+    "image_url": "https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
+    "skill_name": "CSS"
   },
   {
     "image_id": 3,
-    "image_url": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
+    "image_url": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png",
+    "skill_name": "JavaScript"
   },
   {
     "image_id": 4,
-    "image_url": "https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp"
+    "image_url": "https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp",
+    "skill_name": "React"
   },
   {
     "image_id": 5,
-    "image_url": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"
+    "image_url": "https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png",
+    "skill_name": "Bootstrap"
   },
   {
     "image_id": 6,
-    "image_url": "https://bitsrc.imgix.net/3fb49197a90923920dcee2f4f5c36cea2c2a1f73.png"
+    "image_url": "https://bitsrc.imgix.net/3fb49197a90923920dcee2f4f5c36cea2c2a1f73.png",
+    "skill_name": "React Bootstrap"
   },
   {
     "image_id": 7,
-    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--zKQJKp9C--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png"
-  },
-  {
-    "image_id": 8,
-    "image_url": "https://miro.medium.com/v2/resize:fit:1400/1*eCcUQZ41KEymku16tSK6AQ.png"
+    "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--zKQJKp9C--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/i/1jqa96mtdymq7ydgjqf1.png",
+    "skill_name": "Tailwind CSS"
   },
   {
     "image_id": 9,
-    "image_url": "https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png"
+    "image_url": "https://litslink.com/wp-content/uploads/2020/12/node.js-logo-image.png",
+    "skill_name": "Node.js"
   },
   {
     "image_id": 10,
-    "image_url": "https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png"
+    "image_url": "https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png",
+    "skill_name": "Express.js"
   },
   {
     "image_id": 11,
-    "image_url": "https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png"
+    "image_url": "https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png",
+    "skill_name": "MongoDB"
   },
   {
     "image_id": 12,
-    "image_url": "https://images.opencollective.com/daisyui/d1eb928/logo/256.png"
+    "image_url": "https://images.opencollective.com/daisyui/d1eb928/logo/256.png",
+    "skill_name": "DaisyUI"
   }
 ]

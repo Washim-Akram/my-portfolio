@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className="bg-black text-gray-400 font-medium py-8">
-      <section className="container mx-auto flex flex-col md:flex-row items-center justify-between md:px-52">
+      <section className="container mx-auto flex flex-col md:flex-row items-center justify-between md:px-10 lg:px-52">
         <div className="flex flex-col md:flex-row items-center gap-5">
           <svg
             width="36"
@@ -20,7 +20,7 @@ const Footer = () => {
         </div>
         <div className="flex items-center gap-5 mt-5 md:mt-0">
           <a
-            href="https://www.linkedin.com/in/muhammad-washim-akram-214611280/"
+            href="http://www.linkedin.com/in/muhammad-wasim-akram"
             target="_blank"
             rel="noopener noreferrer"
           >

@@ -62,7 +62,12 @@ const NavBar = () => {
             {navLinks}
           </ul>
         </div>
-        <a className="btn btn-ghost normal-case text-2xl">Wasim Akram</a>
+        <a
+          href="#"
+          className="text-base md:text-xl lg:text-2xl font-serif uppercase"
+        >
+          WASIM AKRAM
+        </a>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{navLinks}</ul>
@@ -70,7 +75,7 @@ const NavBar = () => {
       <div className="navbar-end">
         <div className="hidden md:flex md:items-center md:mr-8">
           <a
-            href="https://drive.google.com/uc?export=download&id=1E_Ny98lx8e8XpzP_3ehUNcNS1KjsisUy"
+            href="https://drive.google.com/uc?export=download&id=1W6hr_RO5Pl0NesvqfyezrFnXraOD5m9s"
             download
           >
             <button className="btn btn-neutral hover:bg-cyan-700 transition-all">

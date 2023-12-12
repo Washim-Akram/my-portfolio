@@ -42,13 +42,13 @@ const Contact = () => {
 
   return (
     <section id="contact">
-      <div className="hero my-32 md:my-48 bg-base-100">
-        <div className="hero-content flex-col lg:flex-row gap-16 md:gap-32">
-          <div className="w-full md:w-1/2">
-            <h2 className="text-2xl font-bold text-cyan-600 uppercase text-center md:text-left">
+      <div className="hero my-32 lg:my-48 bg-base-100">
+        <div className="hero-content flex-col lg:flex-row gap-16 lg:gap-32">
+          <div className="w-full lg:w-1/2">
+            <h2 className="text-2xl font-bold text-cyan-600 uppercase text-center lg:text-left">
               CONTACT
             </h2>
-            <h3 className="text-3xl font-bold text-center md:text-left mt-3 mb-20">
+            <h3 className="text-3xl font-bold text-center lg:text-left mt-3 mb-20">
               Don&apos;t be Shy, Hit Me Up!
             </h3>
 
@@ -98,7 +98,7 @@ const Contact = () => {
 
           <div className="divider lg:divider-horizontal"></div>
 
-          <div className="w-full md:w-1/2">
+          <div className="w-full lg:w-1/2">
             <div className="card flex-shrink-0 w-full shadow-2xl bg-base-200">
               <div className="card-body">
                 <form ref={form} onSubmit={sendEmail}>
